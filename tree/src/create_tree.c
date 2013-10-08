@@ -1,5 +1,5 @@
-// Copyright (c) 2013 Panguso Inc.
-// Author: Kangzengji (kangzengji@panguso.com)
+// Copyright (c) 2013 Kangzj.net.
+// Author: Jasper (kangzjnet@gmail.com)
 
 #include "create_tree.h"
 

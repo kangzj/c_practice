@@ -1,5 +1,5 @@
-// Copyright (c) 2013 Panguso Inc.
-// Author: Kangzengji (kangzengji@panguso.com)
+// Copyright (c) 2013 Kangzj.net.
+// Author: Jasper (kangzjnet@gmail.com)
 
 #ifndef BTREE_TRAVERSAL_H_
 #define BTREE_TRAVERSAL_H_

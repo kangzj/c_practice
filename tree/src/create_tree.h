@@ -1,3 +1,7 @@
+// Copyright (c) 2013 Kangzj.net.
+// Author: Jasper (kangzjnet@gmail.com)
+
+
 #ifndef CREATE_TREE_H_
 #define CREATE_TREE_H_
 

@@ -1,5 +1,5 @@
-// Copyright (c) 2013 Panguso Inc.
-// Author: Kangzengji (Kangzengji@panguso.com)
+// Copyright (c) 2013 Kangzj.net.
+// Author: Jasper (kangzjnet@gmail.com)
 
 
 #ifndef TREE_H_

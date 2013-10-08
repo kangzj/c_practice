@@ -1,3 +1,6 @@
+// Copyright (c) 2013 Kangzj.net.
+// Author: Jasper (kangzjnet@gmail.com)
+
 #include <stdio.h>
 #include <stdlib.h>
 
